@@ -1,0 +1,68 @@
+.btn-primary {
+  background-color: rgb(123, 132, 255);
+  border-color: rgb(99, 35, 35);
+}
+
+.btn-primary:hover {
+  background-color: rgb(142, 216, 112);
+  border-color: rgb(13, 177, 206);
+}
+
+h1, h2 {
+  color: rgb(34, 70, 136);
+  font-weight: bold;
+}
+
+#footer {
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  font-family: monospace;
+  padding: 5px;
+  padding-top: 10px;
+  color:rgb(190, 37, 37);
+}
+
+.col-6 h6 {
+  font-style: oblique;
+  text-align: left;
+  padding-top: 25px;
+}
+
+.col-6 img {
+  height: 95%;
+}
+
+#about {
+  margin-top: 100px;
+}
+
+.card-title {
+  color: rgb(165, 108, 42);
+  font-weight: bold;
+}
+
+.navbar ul li a:hover {
+  color: rgb(107, 106, 106);
+  font-weight: bold;
+  background: bisque;
+  transition: .3s;
+}
+
+.navbar ul li a:focus {
+  color: burlywood;
+  font-weight: bold;
+  background: bisque;
+  transition: .3s;
+}
+
+.navbar ul li a:active {
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  background: rgb(168, 0, 20);
+  transition: .3s;
+}
+
+body{
+  background-color: rgb(255, 255, 255);
+}
+
